@@ -1,2 +1,2 @@
 # redochra
-Test app 1
+Test app 2
